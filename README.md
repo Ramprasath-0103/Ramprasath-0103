@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**Ramprasath-0103/Ramprasath-0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I'm **Ram Prasath** : Full-Stack & AI Engineer who builds real-time systems and production-minded LLM pipelines.
+- 🚀 Recently shipped:
+  - [**CodeRoom**](https://github.com/Ramprasath-0103/CodeRoom) : a real-time collaborative code editor with live cursors, per-user undo, offline sync and one-click execution in 11 languages ([live demo](https://code-room-xi.vercel.app)).
+  - [**SupportTicketAssistant**](https://github.com/Ramprasath-0103/SupportTicketAssistant) : a LangGraph ticket classifier with PII redaction, prompt-injection blocking, validated outputs and token-cost tracking.
+  - [**DocQuery**](https://github.com/Ramprasath-0103/DocQuery) : a RAG assistant using hybrid BM25 + vector search fused with Reciprocal Rank Fusion.
+  - [**BlackMirror**](https://github.com/Ramprasath-0103/blackmirror) : research on model collapse across 10 generations of synthetic data, where Simulated Annealing beat Hill Climbing at every data mix.
+- 👀 Passionate about **CRDTs and real-time sync, retrieval systems, and making LLM apps safe to put in production**.
+- 🌱 Building with:
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-2d333b.svg?style=flat&logo=typescript&logoColor=ffffff) ![React](https://img.shields.io/badge/React-2d333b.svg?style=flat&logo=react&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/Node.js-2d333b.svg?style=flat&logo=nodedotjs&logoColor=ffffff) ![Express](https://img.shields.io/badge/Express-2d333b.svg?style=flat&logo=express&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d333b.svg?style=flat&logo=postgresql&logoColor=ffffff) ![Prisma](https://img.shields.io/badge/Prisma-2d333b.svg?style=flat&logo=prisma&logoColor=ffffff)
+  - ![Python](https://img.shields.io/badge/Python-2d333b.svg?style=flat&logo=python&logoColor=ffffff) ![FastAPI](https://img.shields.io/badge/FastAPI-2d333b.svg?style=flat&logo=fastapi&logoColor=ffffff) ![LangGraph](https://img.shields.io/badge/LangGraph-2d333b.svg?style=flat&logo=langchain&logoColor=ffffff) ![ChromaDB](https://img.shields.io/badge/ChromaDB-2d333b.svg?style=flat) ![scikit-learn](https://img.shields.io/badge/scikit--learn-2d333b.svg?style=flat&logo=scikitlearn&logoColor=ffffff)
+  - ![Vercel](https://img.shields.io/badge/Vercel-2d333b.svg?style=flat&logo=vercel&logoColor=ffffff) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2d333b.svg?style=flat&logo=githubactions&logoColor=ffffff)
+- 🎓 Pursuing **CSE** at **VIT Vellore**.
+- 📫 **Connect** with me:
+  - [![Email](https://img.shields.io/badge/GMAIL-ramprasath.rpurusothaman@gmail.com-2d333b.svg?style=flat&logo=Gmail&logoColor=ffffff)](mailto:ramprasath.rpurusothaman@gmail.com)
