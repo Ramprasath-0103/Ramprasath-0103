@@ -1,14 +1,78 @@
-- 👋 Hi, I'm **Ram Prasath** : Full-Stack & AI Engineer who builds real-time systems and production-minded LLM pipelines.
-- 🚀 Recently shipped:
-  - [**CodeRoom**](https://github.com/Ramprasath-0103/CodeRoom) : a real-time collaborative code editor with live cursors, per-user undo, offline sync and one-click execution in 11 languages ([live demo](https://code-room-xi.vercel.app)).
-  - [**SupportTicketAssistant**](https://github.com/Ramprasath-0103/SupportTicketAssistant) : a LangGraph ticket classifier with PII redaction, prompt-injection blocking, validated outputs and token-cost tracking.
-  - [**DocQuery**](https://github.com/Ramprasath-0103/DocQuery) : a RAG assistant using hybrid BM25 + vector search fused with Reciprocal Rank Fusion.
-  - [**BlackMirror**](https://github.com/Ramprasath-0103/blackmirror) : research on model collapse across 10 generations of synthetic data, where Simulated Annealing beat Hill Climbing at every data mix.
-- 👀 Passionate about **CRDTs and real-time sync, retrieval systems, and making LLM apps safe to put in production**.
-- 🌱 Building with:
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-2d333b.svg?style=flat&logo=typescript&logoColor=ffffff) ![React](https://img.shields.io/badge/React-2d333b.svg?style=flat&logo=react&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/Node.js-2d333b.svg?style=flat&logo=nodedotjs&logoColor=ffffff) ![Express](https://img.shields.io/badge/Express-2d333b.svg?style=flat&logo=express&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d333b.svg?style=flat&logo=postgresql&logoColor=ffffff) ![Prisma](https://img.shields.io/badge/Prisma-2d333b.svg?style=flat&logo=prisma&logoColor=ffffff)
-  - ![Python](https://img.shields.io/badge/Python-2d333b.svg?style=flat&logo=python&logoColor=ffffff) ![FastAPI](https://img.shields.io/badge/FastAPI-2d333b.svg?style=flat&logo=fastapi&logoColor=ffffff) ![LangGraph](https://img.shields.io/badge/LangGraph-2d333b.svg?style=flat&logo=langchain&logoColor=ffffff) ![ChromaDB](https://img.shields.io/badge/ChromaDB-2d333b.svg?style=flat) ![scikit-learn](https://img.shields.io/badge/scikit--learn-2d333b.svg?style=flat&logo=scikitlearn&logoColor=ffffff)
-  - ![Vercel](https://img.shields.io/badge/Vercel-2d333b.svg?style=flat&logo=vercel&logoColor=ffffff) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2d333b.svg?style=flat&logo=githubactions&logoColor=ffffff)
-- 🎓 Pursuing **CSE** at **VIT Vellore**.
-- 📫 **Connect** with me:
-  - [![Email](https://img.shields.io/badge/GMAIL-ramprasath.rpurusothaman@gmail.com-2d333b.svg?style=flat&logo=Gmail&logoColor=ffffff)](mailto:ramprasath.rpurusothaman@gmail.com)
+# Hi there, I'm Ram Prasath 👋
+
+I'm a Computer Science undergrad at VIT Vellore, focused on agentic AI and full stack development. I like building systems that hold up in the real world, from multi-step LLM agents with proper guardrails to real time apps deployed.
+
+## 🚀 What I'm Working On
+
+- 🤖 Agentic AI development: multi-step LLM agents and workflows
+- 🛡️ Making agents production-safe: schema validated outputs, retries and fallbacks, PII redaction and prompt injection guards
+- ☁️ Cloud deployment, CI/CD and scalable backends
+- ⚡ Real time scalabale and collaborative systems 
+
+## 📌 Featured Projects
+
+- **[CodeRoom](https://github.com/Ramprasath-0103/CodeRoom)**: Real time collaborative code editor with multi file workspaces, live cursors and presence, built on a custom Monaco ↔ Yjs CRDT sync layer
+- **[Support Ticket Assistant](https://github.com/Ramprasath-0103/SupportTicketAssistant)**: LLM ticket-triage API with a 6 node LangGraph pipeline covering PII redaction, an LLM as judge injection guard, Pydantic validated output and exponential backoff retries
+- **[DocQuery](https://github.com/Ramprasath-0103/DocQuery)**: RAG assistant with section level citations and hybrid retrieval; structure aware chunking cut broken code blocks from 34 to 0
+- **[BlackMirror](https://github.com/Ramprasath-0103/blackmirror)**: Research on model collapse when models are trained on recursively generated synthetic data
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C++
+- Java
+- TypeScript / JavaScript
+- SQL
+
+**Agentic AI / LLM**
+- LangGraph
+- LangChain
+- RAG
+- ChromaDB
+- Vector Search & BM25
+- Prompt Engineering
+
+**Backend**
+- Node.js
+- Express
+- REST APIs
+- Pydantic
+- Prisma ORM
+
+**Real time & Distributed**
+- WebSockets
+- Socket.IO
+- Yjs
+- CRDTs
+
+**Frontend**
+- React
+- Tailwind CSS
+- TanStack Query
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+**Cloud & Tools**
+- Vercel
+- Render
+- Supabase
+- Git
+- Vitest
+- pytest
+- Postman
+
+## 🌱 Current Focus
+
+- Building autonomous, tool-using AI agents
+- Deploying and scaling AI services on the cloud
+- Reliability and safety for LLM applications
+- Open-source contributions
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on agentic AI projects, cloud native systems and interesting software engineering challenges.
+
+📫 [ramprasath.rpurusothaman@gmail.com](mailto:ramprasath.rpurusothaman@gmail.com)
